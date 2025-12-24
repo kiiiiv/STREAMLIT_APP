@@ -489,41 +489,56 @@ def render_representative_works(data, content_type, content_type_label="드라�
                     if isinstance(rep_titles_raw, str) and rep_titles_raw:
                         needed_titles.update([t.strip() for t in rep_titles_raw.split('|')][:3])
     
+    # ==================== render_representative_works 함수의 포스터 로딩 부분 교체 ====================
+
     # 필요한 포스터만 로드 (성능 최적화)
+    poster_loaded = False
     try:
+        # 방법 1: 배포 환경 경로 시도
         if content_type == "drama":
-            import_path = os.path.join(
-                BASE_DIR,
-                "data",
-                "embeddings",
-                "drama_text_embedding_poster.parquet"
-            )
+            import_path = os.path.join(BASE_DIR, "data", "embeddings", "drama_text_embedding_poster.parquet")
         else:
-            import_path = os.path.join(
-                BASE_DIR,
-                "data",
-                "embeddings",
-                "movie_text_embedding_poster.parquet"
-            )
+            import_path = os.path.join(BASE_DIR, "data", "embeddings", "movie_text_embedding_poster.parquet")
 
-        df_original = pd.read_parquet(
-            import_path,
-            columns=["imdb_id", "title", "poster_path"]
-        )
+        if os.path.exists(import_path):
+            df_original = pd.read_parquet(import_path, columns=["imdb_id", "title", "poster_path"])
+            poster_loaded = True
+        else:
+            # 방법 2: 로컬 환경 경로 시도
+            if content_type == "drama":
+                import_path = r"C:\Users\lizzy\OneDrive\바탕 화면\최종플젝\최종데이터셋\최종데이터셋_드라마\drama_text_embedding_qwen3.parquet"
+            else:
+                import_path = r"C:\Users\lizzy\OneDrive\바탕 화면\최종플젝\최종데이터셋\최종데이터셋_영화\movie_text_embedding_qwen3.parquet"
+            
+            if os.path.exists(import_path):
+                df_original = pd.read_parquet(import_path, columns=["imdb_id", "title", "poster_path"])
+                poster_loaded = True
 
-        # 필요한 제목만 매핑
-        for title in needed_titles:
-            title_row = df_map[df_map["title"] == title]
-            if len(title_row) > 0:
+        if poster_loaded:
+            # 필요한 제목만 매핑
+            for title in needed_titles:
+                if 'title' not in df_map.columns:
+                    continue
+                    
+                title_row = df_map[df_map['title'] == title]
+                if len(title_row) == 0:
+                    continue
+
                 imdb_id = title_row.iloc[0]["imdb_id"]
                 poster_row = df_original[df_original["imdb_id"] == imdb_id]
-                if len(poster_row) > 0:
+                
+                if len(poster_row) > 0 and 'poster_path' in poster_row.columns:
                     poster_path = poster_row.iloc[0]["poster_path"]
                     if pd.notna(poster_path) and poster_path:
                         title_to_poster[title] = f"https://image.tmdb.org/t/p/w300{poster_path}"
+        else:
+            st.info("📌 포스터 이미지 파일을 찾을 수 없습니다. 제목만 표시됩니다.")
 
-    except Exception:
-        st.info("📌 배포 환경에서는 포스터 이미지를 제공하지 않습니다.")
+    except Exception as e:
+        st.warning(f"⚠️ 포스터 로딩 중 오류: {str(e)}")
+
+
+
 
     
     # ========== 콘텐츠 렌더링 ==========
