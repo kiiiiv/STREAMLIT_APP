@@ -1,0 +1,644 @@
+﻿imdb_id,title,topic,hit_score,umap_x,umap_y,cluster,keywords
+tt0772137,The Game,-1,25.24941830381521,-4.657951,9.043989,-1,
+tt0435576,Point Pleasant,-1,23.54428991345113,-6.686424,12.0735855,-1,
+tt0959086,Flash Gordon,1,20.42275476148293,-0.86937326,10.475117,4,"earth, world, alien, love, human"
+tt0880557,Bionic Woman,-1,21.863317737750187,-1.0567212,10.378664,-1,
+tt1032838,El Pantera,8,13.815110103857666,-7.2432113,9.612958,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt0772139,Masters of Science Fiction,-1,21.511288398211565,-1.3139515,11.385826,-1,
+tt0481452,Nightmares & Dreamscapes: From the Stories of Stephen King,-1,25.106072561027915,-1.5685607,11.64518,-1,
+tt0841921,Zorro: La espada y la rosa,2,25.257602707441222,-6.765093,9.394911,5,"love, father, family, daughter, relationship"
+tt1244387,Without Breasts There Is No Paradise,-1,23.87880212972141,-3.753902,12.8846445,-1,
+tt1287391,Doña Bárbara,-1,24.68921267012472,-6.829035,9.613322,-1,
+tt1059455,The Legend of Bruce Lee,7,22.982675847969265,-3.3085713,13.06942,6,"spy, 1995, ador, citadel, tensions"
+tt1118526,Galileo,0,21.309853208787068,-5.9776435,13.118476,1,"detective, murder, case, police, cases"
+tt1275297,En nombre del amor,8,24.185796549196887,-7.3935337,8.963834,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt0403795,Revelations,-1,19.298439236888697,-1.1474319,11.255513,-1,
+tt0403759,Empire,-1,19.04777188322957,-4.070392,11.9308815,-1,
+tt0960152,Acorralada,8,19.42886745236068,-7.17293,9.233974,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt0758789,Tsunami: The Aftermath,-1,22.01233138402923,-0.88506866,11.305657,-1,
+tt1220859,Storm Over Paradise,8,10.72326609453037,-7.1109076,9.023891,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt1596029,El Clon,3,12.964927954726182,-5.203992,9.798002,0,"marriage, love, husband, meets, affair"
+tt0391677,Piel de otoño,8,22.22795220764367,-7.275302,9.061395,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt1247637,Above Suspicion,-1,22.000146820427112,-6.2347236,12.894324,-1,
+tt1445556,Burden of Guilt,8,11.463275602278882,-7.09674,9.175931,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt0424600,The Andromeda Strain,1,17.734955873517457,-0.54494953,10.832563,4,"earth, world, alien, love, human"
+tt0415407,Colditz,12,25.437597352297864,-3.577938,12.259357,2,"british, war, russian, king, agent"
+tt1192302,La rosa de Guadalupe,2,11.378287921852287,-5.890466,8.97836,5,"love, father, family, daughter, relationship"
+tt1527368,El Capo,-1,25.18916933395757,-7.0710835,10.216895,-1,
+tt1043714,The Prisoner,13,20.89759927271376,-4.8633227,13.031606,1,"convicted, madeline, case, murder, prison"
+tt1068899,Capadocia,-1,24.901625572726505,-7.0598745,10.152425,-1,
+tt1227637,Impact,1,19.45660145684805,-0.63049644,11.216418,4,"earth, world, alien, love, human"
+tt0873992,Dragon Sakura,9,15.63281447544622,-3.6229715,9.761112,3,"school, students, elite, university, student"
+tt1441404,Al Fondo Hay Sitio,8,21.467368415445403,-6.7471976,8.961418,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt1657081,Law & Order: LA,0,20.430598620087764,-5.1313224,13.203289,1,"detective, murder, case, police, cases"
+tt1593823,The Cape,-1,25.06360914602604,-7.0764675,10.546955,-1,
+tt1333050,Persons Unknown,-1,23.34476569699618,-6.1445484,11.630068,-1,
+tt2227061,Corazon Valiente,2,17.75255144405951,-5.717043,8.601779,5,"love, father, family, daughter, relationship"
+tt1807106,Aurora,-1,10.751958785130206,-6.572613,12.2001095,-1,
+tt1755893,Skins,14,13.748256173833964,-4.2879233,9.237002,0,"friends, navigate, friendship, stan, school"
+tt1697793,Outcasts,1,20.84447919987609,-0.7410776,10.43855,4,"earth, world, alien, love, human"
+tt1772752,A.N.T. Farm,14,18.926507621833043,-4.0472527,8.981524,0,"friends, navigate, friendship, stan, school"
+tt1713938,XIII: The Series,12,16.817219860058717,-3.272231,12.851853,2,"british, war, russian, king, agent"
+tt0459721,La tormenta,8,22.835217466528157,-6.8672624,8.981135,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt1822448,Bedlam,4,22.45798652238832,-6.295677,11.361492,1,"medical, artem, surgeon, doctor, siri"
+tt1846055,Eva Luna,8,22.70775664497472,-6.8596506,8.950782,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt1697033,True Justice,7,16.25745441689432,-3.7709715,13.6418495,6,"spy, 1995, ador, citadel, tensions"
+tt1504261,The Sinking of the Laconia,12,25.66132242780368,-3.4471433,11.878931,2,"british, war, russian, king, agent"
+tt1869152,Titanic,3,21.740408290241035,-4.273754,10.925356,0,"marriage, love, husband, meets, affair"
+tt2373743,Lie to Me,5,20.258573045299165,-3.2915368,8.912858,0,"eun, friend, self, li, soo"
+tt1841108,Femme Fatales,-1,24.94790008992599,-4.2168403,11.1336565,-1,
+tt1212452,Bag of Bones,-1,21.509379682344264,-6.374835,11.97192,-1,
+tt1334573,Moby Dick,-1,21.15660218049443,-4.92471,11.4746895,-1,
+tt2295953,Primeval: New World,-1,22.27747778957797,-0.77373457,10.859095,-1,
+tt0802821,Pandemic,-1,21.45075157927006,-1.5361904,10.981134,-1,
+tt1788634,The Boat,1,22.94603799409296,-0.7648592,11.326123,4,"earth, world, alien, love, human"
+tt2170701,Abyss of Passion,2,23.23106185496828,-6.4416986,8.948623,5,"love, father, family, daughter, relationship"
+tt2215717,The Mob Doctor,4,23.17947205950768,-5.008343,11.554707,1,"medical, artem, surgeon, doctor, siri"
+tt1866570,Labyrinth,1,23.071375704130123,-0.89734244,10.022104,4,"earth, world, alien, love, human"
+tt2222135,Dog with a Blog,14,25.654581610608723,-4.717219,8.603055,0,"friends, navigate, friendship, stan, school"
+tt2215797,Zero Hour,1,25.648135031670783,-1.2314026,11.091922,4,"earth, world, alien, love, human"
+tt2215399,Red Widow,11,21.679140217798658,-5.4666204,12.428194,1,"secrets, mother, family, lucia, deadly"
+tt2877678,Husband for Rent aka Husband for Hire,8,23.517499932189796,-6.8441153,9.030298,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt0420408,Hercules,-1,19.009587569052265,-4.946314,10.62385,-1,
+tt2368645,Hit the Floor,9,24.238011769254868,-4.1667223,9.758214,3,"school, students, elite, university, student"
+tt2476828,Brave Woman,2,25.460670890923616,-6.430116,8.907951,5,"love, father, family, daughter, relationship"
+tt2729716,Tyler Perry's The Haves and the Have Nots,2,18.72211961956052,-6.2093883,9.206025,5,"love, father, family, daughter, relationship"
+tt4592090,Love Me Or Leave Me,3,18.6257353609306,-5.0363145,9.968022,0,"marriage, love, husband, meets, affair"
+tt1782352,Upstairs Downstairs,3,25.040152937450145,-4.7789655,10.787335,0,"marriage, love, husband, meets, affair"
+tt2365086,Corona de lágrimas,8,9.809500647445148,-7.3528214,9.070541,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt2401754,Porque el Amor Manda,8,24.30506224083763,-7.4021525,8.941646,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt2320524,Amores verdaderos,8,25.39465850333308,-7.2857966,9.096682,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt2799012,Ravenswood,-1,24.79814949610508,-1.6917753,10.818352,-1,
+tt2871832,Cedar Cove,-1,22.626621741221776,-5.735961,12.12408,-1,
+tt2515462,Rake,5,22.82773961901804,-4.0349483,8.954876,0,"eun, friend, self, li, soo"
+tt2716158,Merhamet,-1,25.477936228734617,-5.6867313,10.15396,-1,
+tt2345481,Being Mary Jane,-1,23.90425451983295,-5.3188334,11.041215,-1,
+tt2647258,Hostages,-1,25.29799984388201,-3.697618,12.799397,-1,
+tt2930136,Hanzawa Naoki,-1,18.165776605400584,-3.823219,9.225605,-1,
+tt2761630,Klondike,-1,23.65279344693916,-6.686244,10.684386,-1,
+tt2772760,Las Vega's,-1,20.7381204848086,-4.618237,9.3199,-1,
+tt3072546,Broken Angel,2,15.337774452727508,-6.854055,9.407614,5,"love, father, family, daughter, relationship"
+tt2446726,Southcliffe,-1,24.09129531778748,-6.0226417,12.880159,-1,
+tt3275706,Griselda Blanco: The Black Widow,8,19.09163950142688,-7.067755,9.242978,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt3596316,The Stray Cat,8,14.8234380737175,-7.2471786,9.40539,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt3632744,La Malquerida,8,13.584099658722884,-7.210934,9.187143,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt3513704,The Messengers,1,25.063679035745995,-0.64479166,10.965771,4,"earth, world, alien, love, human"
+tt3443274,Every Witch Way,6,18.061119992120837,-1.3246613,10.09324,4,"vampire, vampires, young, half, min"
+tt3435532,Gracepoint,-1,24.557879246050245,-6.5956435,12.816591,-1,
+tt3815412,Our Girl,12,25.690926533816523,-3.5201259,11.664422,2,"british, war, russian, king, agent"
+tt3484180,Remember Me,4,24.387322743437,-5.295391,11.911,1,"medical, artem, surgeon, doctor, siri"
+tt2171665,Violetta,-1,24.033635865228614,-5.345869,9.059681,-1,
+tt3782838,Sons of Liberty,9,22.278545298429904,-3.8068507,10.53141,3,"school, students, elite, university, student"
+tt3560060,CSI: Cyber,-1,17.900857299418995,-4.84542,13.784922,-1,
+tt3476576,The Slap,-1,23.055394857949803,-5.778956,10.63858,-1,
+tt3886214,Hasta el fin del mundo,2,22.62772623368175,-6.2272587,9.213686,5,"love, father, family, daughter, relationship"
+tt4302554,Ask God For Forgiveness... Not Me,2,22.73116979726612,-6.1121054,9.058522,5,"love, father, family, daughter, relationship"
+tt4343108,Blood,6,23.36707128330997,-1.84511,9.648029,4,"vampire, vampires, young, half, min"
+tt3597606,Dig,-1,25.08789831846113,-4.857319,13.938489,-1,
+tt3681610,The Team,-1,23.97713597023625,-5.489771,13.541855,-1,
+tt2817246,Girlfriends' Guide to Divorce,14,22.48622236882974,-4.7817163,9.128687,0,"friends, navigate, friendship, stan, school"
+tt3645318,Tyler Perry's If Loving You Is Wrong,2,13.611077330908008,-5.831618,8.745423,5,"love, father, family, daughter, relationship"
+tt4583316,The Girl Who Sees Smells,-1,25.682866531201988,-5.2691174,13.2844715,-1,
+tt2374744,The Next Step,14,24.89020673424299,-4.227061,9.231291,0,"friends, navigate, friendship, stan, school"
+tt4132692,Between,-1,20.99435064863224,-1.3428922,10.871396,-1,
+tt3378278,Medical Top Team,4,8.808499138383361,-4.3856506,11.348827,1,"medical, artem, surgeon, doctor, siri"
+tt4612952,Orange Marmalade,6,20.6266552375854,-1.5312052,9.672959,4,"vampire, vampires, young, half, min"
+tt3582458,Acquitted,-1,22.953639581972958,-5.76877,12.764779,-1,
+tt4714786,Mask,5,21.438155647148868,-2.9527628,9.251707,0,"eun, friend, self, li, soo"
+tt4428122,Quantico,-1,23.59849064159184,-4.838541,13.73474,-1,
+tt2707792,Bonnie & Clyde,13,21.975862972451868,-5.119342,12.849295,1,"convicted, madeline, case, murder, prison"
+tt4450826,Minority Report,0,22.41941728811278,-5.2226057,13.555547,1,"detective, murder, case, police, cases"
+tt3904068,Senora Acero,-1,22.794956886615456,-6.822663,9.771271,-1,
+tt5037290,Celia,-1,16.426752266765682,-7.094451,9.817905,-1,
+tt4147780,South of Hell,-1,16.016225203676658,-1.7849398,10.588733,-1,
+tt4551116,The Dandy,-1,10.54698408081826,-7.0300174,10.2695,-1,
+tt3087752,Rosemary's Baby,4,19.25303439306634,-5.9924226,11.071752,1,"medical, artem, surgeon, doctor, siri"
+tt5002866,Prison School,9,19.53231547355492,-3.4675093,9.896092,3,"school, students, elite, university, student"
+tt4568372,Residue,1,19.460978361768326,-1.132268,11.186411,4,"earth, world, alien, love, human"
+tt6155146,Brothers,7,7.169440291584039,-3.402136,13.386082,6,"spy, 1995, ador, citadel, tensions"
+tt5303516,Asla Vazgeçmem,3,19.147121364478792,-5.39653,9.5962925,0,"marriage, love, husband, meets, affair"
+tt2199826,Broken Promises,-1,21.293141466320616,-4.7179203,11.429094,-1,
+tt3190448,Metástasis,10,12.92743020105886,-4.492207,12.55529,1,"drug, difficult, kovalev, soccer, gang"
+tt5152136,Yo Soy Franky,14,14.496577678833075,-4.138996,9.008525,0,"friends, navigate, friendship, stan, school"
+tt4469514,Loves with Trap,2,6.7882032425225445,-6.428375,9.174853,5,"love, father, family, daughter, relationship"
+tt1976802,Hell Girl,-1,24.85094168150312,-3.1318831,10.045579,-1,
+tt0451565,Los Plateados,-1,18.674265730511078,-6.882024,9.807219,-1,
+tt3526872,A Love To Remember,-1,13.44779029159893,-4.749997,11.489161,-1,
+tt0499394,Lo Que La Gente Cuenta,-1,10.998373837730622,-1.642239,11.758905,-1,
+tt6001964,Deep Water,0,22.940749423115136,-6.146013,13.858424,1,"detective, murder, case, police, cases"
+tt4946972,Training Day,-1,21.72496990535909,-4.983104,13.421173,-1,
+tt6281238,The Teacher,0,24.8771753848894,-6.0825157,12.852476,1,"detective, murder, case, police, cases"
+tt5031234,Time After Time,1,24.80774611501691,-1.0095037,10.798781,4,"earth, world, alien, love, human"
+tt5639976,The Mist,-1,19.949806504273067,-1.4175695,10.923526,-1,
+tt5640060,Chicago Justice,0,16.98231966407188,-5.121621,13.566662,1,"detective, murder, case, police, cases"
+tt5954206,District 31,0,14.476809368609295,-5.912623,13.776682,1,"detective, murder, case, police, cases"
+tt4154858,Marvel's Inhumans,1,22.82473833070148,-0.59678745,10.599706,4,"earth, world, alien, love, human"
+tt5730624,El Chema,10,19.379859792505805,-4.420434,12.586967,1,"drug, difficult, kovalev, soccer, gang"
+tt6212854,Voice,-1,24.406919772767395,-5.5454974,13.291256,-1,
+tt6422226,The Liar and His Lover,5,25.71388798521927,-3.4089746,8.864334,0,"eun, friend, self, li, soo"
+tt5736758,The Frozen Dead,-1,21.480378971069275,-6.651238,12.749352,-1,
+tt6968336,My Runway,5,10.026075168957592,-4.113884,8.676143,0,"eun, friend, self, li, soo"
+tt5462886,You Are Wanted,-1,24.16974034114133,-4.5269923,13.461708,-1,
+tt6800294,Arctic Circle,0,24.664922271726518,-6.53816,13.154765,1,"detective, murder, case, police, cases"
+tt6742348,In the Name of People,-1,22.74379019172512,-5.335867,13.29663,-1,
+tt6410708,The Replacement,-1,19.7699490968802,-5.250683,10.73929,-1,
+tt5936448,Riviera,3,21.933086390643776,-5.0520983,10.437065,0,"marriage, love, husband, meets, affair"
+tt5103758,Troy: Fall of a City,12,17.07905053010546,-3.4785373,11.739372,2,"british, war, russian, king, agent"
+tt6125832,My Only Love Song,5,25.57042690941556,-2.939067,9.097288,0,"eun, friend, self, li, soo"
+tt6467294,Somewhere Between,-1,24.079227134658552,-5.771633,13.350913,-1,
+tt7108184,Tokyo Vampire Hotel,6,23.194697140230637,-1.4455467,9.795227,4,"vampire, vampires, young, half, min"
+tt6734482,The Loch,0,24.105962070139512,-5.7746067,13.510992,1,"detective, murder, case, police, cases"
+tt6175760,My Sassy Girl,5,24.381949754084317,-3.1080487,9.052031,0,"eun, friend, self, li, soo"
+tt6503244,Valor,-1,20.808030003275377,-3.756329,11.917781,-1,
+tt5650650,Jamestown,-1,25.543711694523623,-4.775883,11.144217,-1,
+tt6522758,Wisdom of the Crowd,0,21.393754933744365,-5.210811,13.37394,1,"detective, murder, case, police, cases"
+tt6568694,Criminal Minds,0,15.041306077957444,-5.1395063,13.694976,1,"detective, murder, case, police, cases"
+tt6294706,The Chi,9,25.071589748556327,-4.1035233,10.527488,3,"school, students, elite, university, student"
+tt6971264,The Rich and Lazarus,-1,22.394638836544065,-5.428582,9.282154,-1,
+tt7056766,Reunited Worlds,5,25.211497188680244,-2.827539,9.132379,0,"eun, friend, self, li, soo"
+tt6881870,Frankie Drake Mysteries,0,25.06908437911161,-5.7860384,13.706465,1,"detective, murder, case, police, cases"
+tt6064882,Room 104,-1,24.452494588690268,-1.8899137,11.975279,-1,
+tt6607810,La piloto,10,13.999492651060358,-4.4643707,11.787051,1,"drug, difficult, kovalev, soccer, gang"
+tt6402362,Hard Sun,-1,24.97915982178928,-5.637434,12.056615,-1,
+tt6856484,Ghost Wars,-1,23.028996128687293,-1.5213275,11.143984,-1,
+tt7516210,The King's Woman,5,22.03191038136826,-3.1962469,8.957531,0,"eun, friend, self, li, soo"
+tt7124904,Tomorrow Is Ours,0,7.156172531073255,-5.8889523,13.723145,1,"detective, murder, case, police, cases"
+tt5620962,I Am Frankie,-1,22.90458065832138,-0.96454054,10.342575,-1,
+tt6708260,Trust Me,4,22.92064376904915,-4.31554,11.283731,1,"medical, artem, surgeon, doctor, siri"
+tt6768146,Rellik,0,24.24877783919608,-6.051811,13.383046,1,"detective, murder, case, police, cases"
+tt6128262,Gunpowder,12,25.604449692241545,-3.444144,11.917146,2,"british, war, russian, king, agent"
+tt7468900,Borderliner,0,23.13219959373143,-5.807738,13.534279,1,"detective, murder, case, police, cases"
+tt6130902,Lore,-1,24.03146962147548,-1.7840976,11.891757,-1,
+tt1210820,The Long Road Home,12,21.602198836813905,-3.4859293,11.890257,2,"british, war, russian, king, agent"
+tt6340304,Rosario Tijeras (Mexico),-1,24.30326248705252,-5.010078,12.108673,-1,
+tt6693154,The Zone,-1,19.64635188729839,-4.0481343,13.568616,-1,
+tt7379872,Superstition,-1,19.985101872106856,-1.7373803,10.956689,-1,
+tt6658720,Keeping Faith,-1,23.1910849851884,-6.593118,12.297001,-1,
+tt7761424,Deus Salve o Rei,-1,23.52207418138892,-3.726628,11.229315,-1,
+tt7174764,The Oath,10,23.993139809308204,-4.559057,12.991034,1,"drug, difficult, kovalev, soccer, gang"
+tt6712476,Bancroft,0,25.013631058259467,-5.7829704,13.764109,1,"detective, murder, case, police, cases"
+tt7856872,Apocalipse,-1,15.855005399243131,-3.400003,11.043605,-1,
+tt7243884,Catherine the Great,12,18.75371346814113,-3.4394412,11.579153,2,"british, war, russian, king, agent"
+tt5730690,Kiss Me First,6,22.757230323468526,-1.3700889,10.375036,4,"vampire, vampires, young, half, min"
+tt7691766,Kakegurui,9,24.115260849347106,-3.5836368,9.848544,3,"school, students, elite, university, student"
+tt9552278,Sweet Revenge,-1,25.168412529591645,-3.9462385,9.156092,-1,
+tt5056958,Mosaic,11,19.95931618634568,-6.038976,11.990149,1,"secrets, mother, family, lucia, deadly"
+tt6834120,Jenni Rivera: Mariposa de Barrio,8,22.553324024255872,-7.3474708,9.73963,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt7356206,Chicken Girls,14,15.685601183930904,-4.4140296,9.125972,0,"friends, navigate, friendship, stan, school"
+tt6712390,Requiem,-1,22.278964149726637,-6.782947,12.380582,-1,
+tt7907384,Laws of love,2,10.516192500846367,-5.927563,8.843026,5,"love, father, family, daughter, relationship"
+tt7661932,Woman,-1,23.935491015513808,-5.7880487,9.866746,-1,
+tt6849940,ReBoot: The Guardian Code,-1,8.806519464572167,-1.1482527,10.333985,-1,
+tt7978912,The Bletchley Circle: San Francisco,13,24.186165437230866,-5.2743397,13.287626,1,"convicted, madeline, case, murder, prison"
+tt8083832,About Time,-1,15.611138866178903,-0.6678898,9.930838,-1,
+tt7205264,The City and the City,0,24.73023035281465,-6.2521257,13.075989,1,"detective, murder, case, police, cases"
+tt7314988,Sin tu mirada,8,9.211829266368497,-7.330065,9.606017,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt8258938,The Confidence Man JP,5,20.377622785361417,-3.9256907,8.63431,0,"eun, friend, self, li, soo"
+tt6394324,Charmed,6,20.075811997179883,-1.4006052,10.082487,4,"vampire, vampires, young, half, min"
+tt8369840,Another Life,1,22.79570759366405,-0.42059287,10.543762,4,"earth, world, alien, love, human"
+tt6038954,Picnic at Hanging Rock,-1,22.022397659105398,-6.747557,12.069743,-1,
+tt8447606,Kally's Mashup,-1,22.424644041627,-3.7620587,8.707139,-1,
+tt7403736,V Wars,6,24.517008059566272,-1.4266696,9.996976,4,"vampire, vampires, young, half, min"
+tt8463714,The ABC Murders,0,24.05333240460859,-6.223213,13.429945,1,"detective, murder, case, police, cases"
+tt7978230,Bitter Lands,-1,15.256031600298453,-5.8435826,9.427078,-1,
+tt7942774,The Fix,13,19.917521221392505,-5.3072696,12.663176,1,"convicted, madeline, case, murder, prison"
+tt8063174,Immortals,6,25.45639093969084,-1.4809918,9.711142,4,"vampire, vampires, young, half, min"
+tt7958782,Proven Innocent,13,21.00332536160668,-5.4406104,12.530705,1,"convicted, madeline, case, murder, prison"
+tt9397640,Folklore,-1,21.396156056513245,-1.8595388,11.96129,-1,
+tt6586344,Warrior,7,23.50745907997636,-3.6535664,13.278523,6,"spy, 1995, ador, citadel, tensions"
+tt2583620,The Twilight Zone,-1,23.43551381204441,-1.6345284,11.58519,-1,
+tt9284162,Top Management,5,20.69986753478183,-3.8182948,8.900867,0,"eun, friend, self, li, soo"
+tt10361016,Penny Dreadful: City of Angels,6,23.054459583304617,-1.7096999,10.502216,4,"vampire, vampires, young, half, min"
+tt7146326,Carl Weber's The Family Business,11,20.41588236271777,-5.7925944,11.507461,1,"secrets, mother, family, lucia, deadly"
+tt8001226,The War of the Worlds,1,15.732179778186689,-0.5724059,10.619611,4,"earth, world, alien, love, human"
+tt8991526,Blood,11,23.111332750426502,-6.303584,12.246631,1,"secrets, mother, family, lucia, deadly"
+tt8593252,Coroner,0,24.581978797213687,-6.6157107,13.075379,1,"detective, murder, case, police, cases"
+tt8571906,London Kills,0,18.835823817692606,-5.602629,13.453175,1,"detective, murder, case, police, cases"
+tt10763852,NooBees,-1,24.032821967663605,-1.502962,10.303775,-1,
+tt7043380,Osmosis,1,19.06348117195456,-1.1265341,9.663271,4,"earth, world, alien, love, human"
+tt7572868,The Name of the Rose,-1,24.56182591889788,-5.536559,11.808196,-1,
+tt9886950,Well-Intended Love,5,24.08358719752546,-3.51676,8.721085,0,"eun, friend, self, li, soo"
+tt8042500,Y: The Last Man,1,24.20863375457523,-0.6604248,10.66672,4,"earth, world, alien, love, human"
+tt8417308,The Spanish Princess,-1,25.031560437178623,-3.8317704,11.165354,-1,
+tt7371896,Traitors,12,23.655521789244943,-3.3991237,12.05305,2,"british, war, russian, king, agent"
+tt1831804,The Stand,-1,24.587845924796543,-0.7767047,10.561661,-1,
+tt8888168,The Code,-1,17.75530353390038,-4.059673,12.069752,-1,
+tt9686194,War of the Worlds,1,25.007820990639985,-0.3075383,10.653699,4,"earth, world, alien, love, human"
+tt8652642,Wu Assassins,-1,25.711102086884765,-3.399251,13.790577,-1,
+tt8045468,RUN,5,23.032576991996727,-4.177862,8.85561,0,"eun, friend, self, li, soo"
+tt12879522,The School Nurse Files,6,22.779609064400876,-1.5879622,10.269127,4,"vampire, vampires, young, half, min"
+tt10312964,Katy Keene,-1,25.177854011766733,-4.282105,9.289885,-1,
+tt10055734,Abyss,6,25.178559370943816,-2.077463,9.702834,4,"vampire, vampires, young, half, min"
+tt9679644,Your Turn To Kill,-1,20.54967497953632,-6.2760983,12.115525,-1,
+tt8892926,Reef Break,7,22.0120833938362,-3.668611,13.064213,6,"spy, 1995, ador, citadel, tensions"
+tt8923396,Jinn,1,16.624792698185768,-1.0730643,10.3566885,4,"earth, world, alien, love, human"
+tt8382834,Instinto,4,23.884065532347886,-6.2094617,11.708705,1,"medical, artem, surgeon, doctor, siri"
+tt8602408,Holly Hobbie,-1,21.39682372136198,-4.885153,8.962333,-1,
+tt9145880,Love Alarm,1,23.12206274627714,-1.2855793,9.454454,4,"earth, world, alien, love, human"
+tt8661868,Sanctuary,4,19.629403629297027,-6.2879753,11.57779,1,"medical, artem, surgeon, doctor, siri"
+tt10488234,Don't Look Deeper,6,24.635386602801425,-1.3849248,10.340084,4,"vampire, vampires, young, half, min"
+tt9103772,Limetown,-1,24.408368840925416,-6.6588616,12.313081,-1,
+tt9310372,Typewriter,-1,22.46256662392577,-6.464266,11.9574,-1,
+tt9067020,The I-Land,-1,16.548923032449498,-0.8272485,10.667591,-1,
+tt10207090,Pandora,1,17.146893178124195,-0.53777003,10.434592,4,"earth, world, alien, love, human"
+tt9252156,Departure,-1,23.542644500000502,-5.003112,11.777688,-1,
+tt7943036,Twice Upon a Time,1,17.707906518273447,-0.9169669,9.929844,4,"earth, world, alien, love, human"
+tt10590540,Cradle of Wolves,-1,17.363836824109462,-6.783478,9.724792,-1,
+tt7423322,The Right Stuff,-1,19.943937553735346,-3.3108737,11.758948,-1,
+tt8826128,October Faction,-1,22.916122364082607,-1.6701866,10.79158,-1,
+tt8005176,The Feed,-1,20.55456597129966,-0.8307145,10.157679,-1,
+tt11041132,The Mosquito Coast,-1,24.987988925698694,-3.2829435,12.952859,-1,
+tt7736572,Temple,4,25.210343954311497,-5.190743,11.574119,1,"medical, artem, surgeon, doctor, siri"
+tt10986052,Criminal: France,0,25.36800640726003,-5.659894,13.622958,1,"detective, murder, case, police, cases"
+tt10986050,Criminal: Spain,0,21.84249751642417,-5.5390525,13.59635,1,"detective, murder, case, police, cases"
+tt10384106,The Island,-1,24.650946226971094,-1.3777467,10.855545,-1,
+tt9695118,Face to Face,0,25.623708992833745,-6.4820733,13.069586,1,"detective, murder, case, police, cases"
+tt9742936,FBI: Most Wanted,-1,22.717949756556816,-4.7508345,13.726646,-1,
+tt10148174,The Walking Dead: World Beyond,1,14.147446964995044,-0.92811984,10.398278,4,"earth, world, alien, love, human"
+tt10752770,Tyler Perry's Sistas,14,15.603475551759672,-4.878177,9.051072,0,"friends, navigate, friendship, stan, school"
+tt11053220,We Are the Wave,9,21.77436069077897,-3.7693334,10.304814,3,"school, students, elite, university, student"
+tt10653784,Gossip Girl,-1,18.136671960551052,-6.5766397,11.873312,-1,
+tt9074360,Trackers,10,25.681514109408177,-4.800742,13.13718,1,"drug, difficult, kovalev, soccer, gang"
+tt9307990,Lincoln Rhyme: Hunt for the Bone Collector,0,21.04453568144524,-5.8168025,13.754396,1,"detective, murder, case, police, cases"
+tt7636244,S.O.Z: Soldiers or Zombies,6,23.36414327593247,-1.1720682,10.766478,4,"vampire, vampires, young, half, min"
+tt8075008,The Luminaries,-1,25.320453146694017,-5.2552614,11.400811,-1,
+tt10580092,Tyler Perry's The Oval,-1,12.378208518764078,-5.4323587,10.552208,-1,
+tt9024590,Nurses,4,17.554110329403148,-4.2917542,11.351945,1,"medical, artem, surgeon, doctor, siri"
+tt9145372,The Accident,-1,22.424692005624767,-5.8506923,10.667855,-1,
+tt11859946,Difficult Teens,10,11.286705421958768,-4.173995,9.049777,1,"drug, difficult, kovalev, soccer, gang"
+tt9704568,Deadwater Fell,11,23.664291589965863,-5.800092,11.039261,1,"secrets, mother, family, lucia, deadly"
+tt10367818,El final del paraíso,-1,9.818864943413557,-3.9757202,12.811216,-1,
+tt9310400,The Stranded,-1,21.90860264659067,-0.85233307,11.39611,-1,
+tt3319460,Lisey's Story,-1,24.57351420975123,-1.9679558,10.960305,-1,
+tt9314996,Triad Princess,5,22.11169442468621,-4.2543592,8.7036705,0,"eun, friend, self, li, soo"
+tt11198202,Outbreak,-1,22.752751977862783,-1.613989,11.110734,-1,
+tt9731254,Three Days of Christmas,-1,23.869332109075028,-5.7468777,10.23057,-1,
+tt11243536,Holiday Secrets,-1,25.28740613516057,-5.706819,10.394166,-1,
+tt10833132,The Club,-1,20.23202694523119,-4.3822074,8.619554,-1,
+tt10230502,La unidad,7,24.92079268480817,-3.5392644,13.479124,6,"spy, 1995, ador, citadel, tensions"
+tt10062652,COBRA,-1,21.27961383328469,-4.358383,13.481327,-1,
+tt11769798,Rugal,-1,16.53602619951576,-3.4119072,13.599039,-1,
+tt11502628,Detective Chinatown,0,21.15416170219836,-6.135819,13.306054,1,"detective, murder, case, police, cases"
+tt8610212,The Gloaming,0,23.36446509323836,-5.9613156,13.6377125,1,"detective, murder, case, police, cases"
+tt8690440,Reckoning,-1,20.5409899642665,-6.346715,13.00893,-1,
+tt10505002,Box 21,-1,24.16376295436325,-5.2436714,12.2540865,-1,
+tt11569628,Find Yourself,3,20.5662210558068,-5.01571,9.803618,0,"marriage, love, husband, meets, affair"
+tt9170386,Puerta 7,10,18.043885528063274,-4.5857067,12.681261,1,"drug, difficult, kovalev, soccer, gang"
+tt11041046,Survive,-1,21.667926753088462,-4.5071683,11.538623,-1,
+tt11885790,Find Me in Your Memory,4,23.362848626983357,-5.5717688,11.191081,1,"medical, artem, surgeon, doctor, siri"
+tt12850322,Record of Youth,9,25.24176897503006,-4.0340023,10.32612,3,"school, students, elite, university, student"
+tt6859148,1993,-1,14.100802905973334,-4.1572657,12.219449,-1,
+tt9170236,PIECES OF HER,11,20.91246488149774,-6.2174845,12.444049,1,"secrets, mother, family, lucia, deadly"
+tt10623550,The Fugitive,-1,15.600489568189632,-4.367312,13.536549,-1,
+tt10394778,Vagrant Queen,-1,19.428611101224767,-1.5518782,10.336763,-1,
+tt10367698,Operación Pacífico,-1,19.10963981852952,-7.018555,9.889918,-1,
+tt9011124,Trigger,4,24.004214906296347,-5.2599926,11.905506,1,"medical, artem, surgeon, doctor, siri"
+tt11716756,The Winter King,-1,23.971696200506877,-2.6588967,12.364551,-1,
+tt12026710,Suspicion,-1,18.704135314207427,-5.517806,12.762288,-1,
+tt12562262,Legacy,-1,25.252742777137467,-5.9255366,9.312442,-1,
+tt11867066,AnnDroid,-1,23.72622759604347,-0.97938234,10.2779665,-1,
+tt10133370,Stalk,9,21.873498813690045,-3.7962253,10.0639305,3,"school, students, elite, university, student"
+tt10394844,Soulmates,1,24.060199496184808,-1.0278214,9.985269,4,"earth, world, alien, love, human"
+tt10901134,One Lane Bridge,0,22.045604803621867,-6.2785063,13.440526,1,"detective, murder, case, police, cases"
+tt11457996,Ana,5,14.130022824202928,-4.1227427,8.987869,0,"eun, friend, self, li, soo"
+tt10348078,Her Mother's Killer,10,21.954142318788016,-6.503308,10.418638,1,"drug, difficult, kovalev, soccer, gang"
+tt11243606,100 días para enamorarnos,5,19.4816565998,-4.6017556,9.180431,0,"eun, friend, self, li, soo"
+tt12313914,Ju-On: Origins,-1,23.86929565102892,-6.305955,11.865608,-1,
+tt12398140,Losing Alice,-1,24.33282716759648,-5.3423214,9.559742,-1,
+tt9138156,La Jauría,-1,16.52223320713178,-5.7743907,12.532125,-1,
+tt12762512,Echo 3,-1,22.48143856723644,-3.298971,12.949726,-1,
+tt10311932,Someone Has to Die,-1,23.5268116194852,-5.6416335,9.740501,-1,
+tt10795574,A Suitable Boy,3,25.175764135519,-5.1820865,10.017974,0,"marriage, love, husband, meets, affair"
+tt11640020,Debris,1,24.04907913979656,-0.650465,10.570786,4,"earth, world, alien, love, human"
+tt12785720,The Witcher: Blood Origin,1,20.005483818201373,-0.88980657,10.507007,4,"earth, world, alien, love, human"
+tt10714778,La Fortuna,-1,25.24029325108133,-3.1939366,12.963119,-1,
+tt5373374,Lying Heart,2,21.7972579711088,-6.5787845,9.069007,5,"love, father, family, daughter, relationship"
+tt13084920,Oxygen: The Series,3,9.764234466955465,-4.6937475,9.617911,0,"marriage, love, husband, meets, affair"
+tt12851512,The Girl from Plainville,13,22.551929773849043,-5.375347,12.905334,1,"convicted, madeline, case, murder, prison"
+tt10404698,Monsterland,-1,20.34299816666249,-1.5541259,11.5152,-1,
+tt12976224,The Essex Serpent,-1,24.68497760743877,-6.8469753,12.619424,-1,
+tt12929796,Goedam,-1,20.53088586845012,-1.7992204,11.90241,-1,
+tt9660182,Resident Evil,-1,20.989301550072515,-1.335513,10.635471,-1,
+tt12443806,Imperio De Mentiras,2,23.056635720837416,-6.68352,9.171302,5,"love, father, family, daughter, relationship"
+tt12879200,A Woman Scorned,3,25.11594160409085,-4.8416114,10.266008,0,"marriage, love, husband, meets, affair"
+tt12313074,Social Distance,-1,24.973181029046305,-1.8148876,11.912968,-1,
+tt8001136,Black Narcissus,4,21.058083578585645,-6.4029403,11.39642,1,"medical, artem, surgeon, doctor, siri"
+tt13266012,Kitchenblock,6,16.860497187125493,-1.4978433,9.845067,4,"vampire, vampires, young, half, min"
+tt10147520,The Minions of Midas,-1,22.9487721553109,-6.3384147,12.96356,-1,
+tt8190688,Valley of Tears,12,25.461965863143423,-3.4365242,11.756493,2,"british, war, russian, king, agent"
+tt13085534,Ghum Hai Kisikey Pyaar Meiin,2,9.162299611726333,-5.8500724,9.03311,5,"love, father, family, daughter, relationship"
+tt13048234,De brutas nada,14,15.184942392227926,-4.974804,8.809296,0,"friends, navigate, friendship, stan, school"
+tt10846250,Roadkill,12,25.14131004935537,-3.476862,11.955418,2,"british, war, russian, king, agent"
+tt17329616,Big Bet,7,21.955327733380347,-3.5781374,13.183225,6,"spy, 1995, ador, citadel, tensions"
+tt10642480,The Sister,11,19.64813403377736,-5.806912,11.35725,1,"secrets, mother, family, lucia, deadly"
+tt9174724,Beacon 23,1,17.5820532984509,-0.42111087,10.533688,4,"earth, world, alien, love, human"
+tt12306692,American Horror Stories,-1,22.94615456536409,-1.6648945,11.797294,-1,
+tt11382382,Sex,3,22.01932801583277,-4.831183,9.946599,0,"marriage, love, husband, meets, affair"
+tt13364380,Imlie,2,11.5336024559914,-6.014072,9.038379,5,"love, father, family, daughter, relationship"
+tt10767748,Tiny Pretty Things,9,24.75507211871662,-3.9810994,10.293818,3,"school, students, elite, university, student"
+tt13696452,Money Heist: Korea - Joint Economic Area,7,25.31509921412604,-3.5397632,13.412075,6,"spy, 1995, ador, citadel, tensions"
+tt22479848,Somebody,-1,22.77779014016326,-5.968524,12.363715,-1,
+tt14273790,The Rig,1,20.51342341349425,-0.48238733,10.895555,4,"earth, world, alien, love, human"
+tt10973800,Equinox,6,24.48019820258834,-1.52775,10.459792,4,"vampire, vampires, young, half, min"
+tt11057226,DMZ,-1,18.25680795206161,-0.8711488,10.672828,-1,
+tt10625812,Spy City,12,25.190327000403105,-3.4152877,12.374856,2,"british, war, russian, king, agent"
+tt7475590,Kung Fu,7,23.90685423409958,-3.4310637,13.083628,6,"spy, 1995, ador, citadel, tensions"
+tt11815244,The Republic of Sarah,9,17.999138744558625,-3.6109853,10.215732,3,"school, students, elite, university, student"
+tt13157618,Secret Invasion,1,23.332010932632738,-0.56697655,10.551298,4,"earth, world, alien, love, human"
+tt9794044,Citadel,7,24.073490800450767,-3.4283867,13.454891,6,"spy, 1995, ador, citadel, tensions"
+tt12446242,Alba,-1,19.98143437544024,-5.847643,11.893529,-1,
+tt13743822,Color Rush,6,23.04042449826329,-2.0477233,9.612746,4,"vampire, vampires, young, half, min"
+tt11737102,Genesis,2,20.87832209654991,-5.7159367,8.966432,5,"love, father, family, daughter, relationship"
+tt14300330,Love You as the World Ends,-1,20.68399016545544,-6.6435075,11.772621,-1,
+tt12112118,The Swamp,-1,24.23841448645461,-4.187882,10.950302,-1,
+tt13760386,Dear.M,9,22.748900738088075,-3.578732,9.88913,3,"school, students, elite, university, student"
+tt13660638,Black Space,0,18.48155197787879,-5.9728756,13.154945,1,"detective, murder, case, police, cases"
+tt13138972,We Children from Bahnhof Zoo,9,22.72342937527454,-4.185248,10.254615,3,"school, students, elite, university, student"
+tt13819960,And Just Like That…,14,20.898982550527723,-4.9406857,8.750075,0,"friends, navigate, friendship, stan, school"
+tt14371376,Imitation,5,23.758585254758778,-3.6451864,8.814789,0,"eun, friend, self, li, soo"
+tt13702252,Dealer,7,23.49874433592911,-3.9404802,13.232701,6,"spy, 1995, ador, citadel, tensions"
+tt13550498,My Siblings,-1,22.97036184375272,-5.6914663,10.22222,-1,
+tt11285548,Bloodlands,0,24.43864624121195,-6.1523285,13.71466,1,"detective, murder, case, police, cases"
+tt14127760,Demente,2,13.636850418727892,-6.889079,9.4804325,5,"love, father, family, daughter, relationship"
+tt11937816,Who Killed Sara?,-1,25.51295333882162,-5.455509,12.277475,-1,
+tt11639300,Grace,0,24.21195641599724,-6.01781,13.865857,1,"detective, murder, case, police, cases"
+tt10478054,Dan Brown's The Lost Symbol,7,21.684207393937573,-3.1219375,13.381612,6,"spy, 1995, ador, citadel, tensions"
+tt12083014,Zero Chill,-1,18.619867413529853,-4.156206,8.854809,-1,
+tt12887536,CSI: Vegas,0,22.73776122710022,-5.216982,13.527835,1,"detective, murder, case, police, cases"
+tt14449470,FBI: International,-1,20.221584461295148,-4.8893733,13.846849,-1,
+tt14584108,It Was Always Me,2,23.153603493631035,-6.4729085,9.357374,5,"love, father, family, daughter, relationship"
+tt13024344,Parot,13,11.743104927326934,-5.2942843,13.021498,1,"convicted, madeline, case, murder, prison"
+tt12908084,Happy End,5,24.549251749913843,-4.281307,8.837463,0,"eun, friend, self, li, soo"
+tt9073940,Hit & Run,11,24.845181814734847,-5.9520493,11.640753,1,"secrets, mother, family, lucia, deadly"
+tt14500082,How I Met Your Father,14,24.660580918520232,-5.0174613,8.581568,0,"friends, navigate, friendship, stan, school"
+tt14218674,NCIS: Hawaiʻi,-1,21.27101818322027,-5.061381,13.890142,-1,
+tt13107070,The Pact,11,23.6271624975513,-5.8038354,11.928712,1,"secrets, mother, family, lucia, deadly"
+tt13624900,Naomi,6,18.330046276997912,-1.2600005,10.44685,4,"vampire, vampires, young, half, min"
+tt11188682,The Cleaning Lady,4,25.38894046774367,-4.9982877,11.8725605,1,"medical, artem, surgeon, doctor, siri"
+tt14719590,Somos.,8,25.65637180678873,-7.246001,9.90996,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt13406036,Anne Boleyn,3,17.04869686809732,-4.6857657,10.756961,0,"marriage, love, husband, meets, affair"
+tt13847924,Coyotes,-1,7.73552614491572,-6.961303,11.723542,-1,
+tt14689620,Vampire Academy,6,23.415993581247463,-1.480229,9.740264,4,"vampire, vampires, young, half, min"
+tt10839422,Sex/Life,3,24.69934811020323,-4.8804564,10.145679,0,"marriage, love, husband, meets, affair"
+tt11055882,Good Sam,4,14.892214038549772,-4.6317577,11.348801,1,"medical, artem, surgeon, doctor, siri"
+tt14169816,You Are My Spring,4,20.44360481157398,-5.6420155,11.566092,1,"medical, artem, surgeon, doctor, siri"
+tt9319770,4400,1,12.18892030365517,-0.71614826,10.241361,4,"earth, world, alien, love, human"
+tt11958610,Trigger Point,-1,22.96262947237607,-4.7930393,13.5428705,-1,
+tt9737326,Invasion,1,25.04466602425593,-0.48149252,10.673593,4,"earth, world, alien, love, human"
+tt11698590,Jaguar,12,16.004072780409363,-3.2980363,12.200067,2,"british, war, russian, king, agent"
+tt13694702,Surface,-1,24.033044256989086,-6.0240693,11.842742,-1,
+tt14040910,Queens,2,21.433673015585885,-5.709947,8.676315,5,"love, father, family, daughter, relationship"
+tt14518136,Police University,10,17.835403460727246,-4.6052547,12.97977,1,"drug, difficult, kovalev, soccer, gang"
+tt13980362,Wrong Side of the Tracks,10,24.69674995696988,-4.6780243,12.207502,1,"drug, difficult, kovalev, soccer, gang"
+tt12564616,Jiva!,9,22.482810569223595,-3.82116,9.653967,3,"school, students, elite, university, student"
+tt14075260,Not My Fault: Mexico,-1,21.422121906744405,-6.0375667,12.165719,-1,
+tt14278524,Santo,-1,10.77264486337745,-4.679405,13.139521,-1,
+tt15452616,Don't Say No,14,23.30639487730169,-4.930959,8.667446,0,"friends, navigate, friendship, stan, school"
+tt13457822,Welcome to Eden,-1,25.400735522178,-1.0909541,10.522272,-1,
+tt14792896,Liaison,7,24.562887471180957,-3.2614431,13.248385,6,"spy, 1995, ador, citadel, tensions"
+tt14417802,The Snitch Cartel: Origins,10,12.797860142879085,-4.4984436,12.390078,1,"drug, difficult, kovalev, soccer, gang"
+tt11895484,Boundless,-1,24.282259821258226,-3.1024718,12.566764,-1,
+tt14252964,Gone for Good,-1,21.81059643333676,-6.51207,12.4392185,-1,
+tt15046742,Notre-Dame,-1,15.395041073876522,-4.6042123,10.57016,-1,
+tt13275654,The Box,-1,10.464712486800524,-5.6634173,13.764454,-1,
+tt14414246,La desalmada,2,18.16426506800763,-6.4848914,8.807331,5,"love, father, family, daughter, relationship"
+tt11640018,La Brea,-1,19.83515979267117,-0.5525438,10.9063225,-1,
+tt15007114,One the Woman,-1,23.802791478724288,-5.992073,12.040567,-1,
+tt14954498,Echoes,4,23.20057842682636,-6.4067645,11.174341,1,"medical, artem, surgeon, doctor, siri"
+tt10937180,I Know What You Did Last Summer,-1,18.473415736686757,-6.5873585,11.82049,-1,
+tt15101964,Everything Will Be Fine,14,20.662068795645165,-4.705058,8.605777,0,"friends, navigate, friendship, stan, school"
+tt15068148,The Kingdom,10,21.114051544607623,-5.7782693,13.011151,1,"drug, difficult, kovalev, soccer, gang"
+tt15341198,The Perfect Mother,-1,20.37975176438017,-5.7250257,12.671015,-1,
+tt14772170,Ridley,0,24.9755453309334,-6.082318,13.742496,1,"detective, murder, case, police, cases"
+tt13475676,Tom Swift,6,10.830476241938864,-1.3709624,10.585906,4,"vampire, vampires, young, half, min"
+tt8559532,The Changeling,1,22.34584784969578,-1.1340023,9.862641,4,"earth, world, alien, love, human"
+tt15303234,Full Circle,0,23.559334179676053,-5.468715,13.086777,1,"detective, murder, case, police, cases"
+tt21289712,A Model Family,10,20.590387548933265,-4.637208,12.426979,1,"drug, difficult, kovalev, soccer, gang"
+tt13275052,Dive Club,-1,24.093801136089432,-6.916652,11.763223,-1,
+tt14321632,All the Queen's Men,-1,20.549074385881013,-4.5569086,9.905519,-1,
+tt15437862,SkyMed,-1,18.98689333927588,-4.2117324,11.485892,-1,
+tt15432016,Devil in Ohio,4,23.109947545101537,-5.2266808,11.88333,1,"medical, artem, surgeon, doctor, siri"
+tt15458236,Voltes V: Legacy,6,19.093748641745897,-1.1963277,10.395921,4,"vampire, vampires, young, half, min"
+tt9569528,Queer as Folk,-1,16.038802506154845,-5.5378356,10.456021,-1,
+tt15390524,Partner Track,-1,24.37508416371715,-4.97194,10.374064,-1,
+tt15393644,New Heights,-1,24.59865773336254,-5.8788614,10.607415,-1,
+tt14129418,Ragdoll,0,15.891118013464723,-6.0591674,13.705638,1,"detective, murder, case, police, cases"
+tt20217314,2 Good 2 Be True,5,22.896990230419263,-4.1923647,8.63618,0,"eun, friend, self, li, soo"
+tt15525658,Lady Voyeur,-1,15.415444473236764,-5.9150047,12.33199,-1,
+tt14377480,Kamen Rider Black Sun,1,21.86462660593545,-0.5077983,10.563439,4,"earth, world, alien, love, human"
+tt19870894,Monstrous,-1,16.922347610375322,-2.2406926,10.799594,-1,
+tt13231962,Elves,-1,15.72016088495674,-1.7805237,10.7979355,-1,
+tt20235634,Kiss Sixth Sense,6,20.66347667744252,-1.9538646,9.601996,4,"vampire, vampires, young, half, min"
+tt13578144,MalaYerba,10,20.314360063609787,-4.237287,12.036898,1,"drug, difficult, kovalev, soccer, gang"
+tt11470588,Blackout: Tomorrow Is Too Late,-1,18.249625004631177,-4.493892,13.4806795,-1,
+tt15669534,Tales of the Walking Dead,-1,24.05064110627146,-1.493724,11.730914,-1,
+tt22002370,Connect,-1,23.90376253789565,-2.3813875,9.587531,-1,
+tt14253638,Express,13,19.31030446299898,-5.2334633,12.701402,1,"convicted, madeline, case, murder, prison"
+tt19887704,Bloody Heart,12,21.19428788347889,-3.3691864,11.445306,2,"british, war, russian, king, agent"
+tt9174600,Roar,-1,25.435944926163646,-1.8690739,11.962476,-1,
+tt15374794,Your Love Is My Fortune,-1,18.084552415372563,-4.960651,8.870082,-1,
+tt21049186,Café Minamdang,-1,25.39053773973125,-6.1235785,12.396618,-1,
+tt14351748,Fatal Attraction,3,23.109922356571563,-5.095206,10.431517,0,"marriage, love, husband, meets, affair"
+tt20426062,The Mysterious Class,-1,9.689895908243898,-6.5819674,11.922998,-1,
+tt7950716,Blanca,-1,22.83968279953398,-5.7172885,12.42053,-1,
+tt14220870,A Very British Scandal,3,23.50644798858408,-5.1707697,10.135173,0,"marriage, love, husband, meets, affair"
+tt12104930,Kitz,-1,24.381664738681877,-5.3471417,12.130186,-1,
+tt14655298,Summer Heat,-1,13.497338173638951,-4.3814435,9.680319,-1,
+tt17492848,Goodbye Earth,1,9.870445743573912,-0.58461595,11.17178,4,"earth, world, alien, love, human"
+tt15140592,Forecasting Love and Weather,5,24.55672383475234,-4.570675,8.808005,0,"eun, friend, self, li, soo"
+tt5232622,The Girl Before,4,24.95598590996642,-6.212906,11.280275,1,"medical, artem, surgeon, doctor, siri"
+tt14088994,All American: Homecoming,9,21.47897070115163,-4.047792,9.654752,3,"school, students, elite, university, student"
+tt27111295,Citadel Honey Bunny,-1,23.17926161770768,-2.7412846,12.944066,-1,
+tt14362156,The Envoys,-1,23.63655893952772,-5.5578012,11.73577,-1,
+tt15410190,Fishbowl Wives,3,22.315293967702644,-4.7998123,10.166608,0,"marriage, love, husband, meets, affair"
+tt30241060,My Man Is Cupid,6,24.38793660904186,-1.6963259,9.468212,4,"vampire, vampires, young, half, min"
+tt24082562,Unlock My Boss,5,25.6900609492825,-3.8052924,8.929309,0,"eun, friend, self, li, soo"
+tt16021642,Offworld,1,17.088508388122207,-0.8836908,11.333755,4,"earth, world, alien, love, human"
+tt20765238,Life on Call,3,18.48497957288173,-4.6061673,10.269286,0,"marriage, love, husband, meets, affair"
+tt14494894,Juanpis González - The Series,-1,23.98015507395061,-4.6796007,8.666518,-1,
+tt16589104,Señorita 89,8,24.070728865784304,-7.434378,9.705124,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt13956560,"Devotion, a Story of Love and Desire",3,24.806165833639778,-5.081054,9.827894,0,"marriage, love, husband, meets, affair"
+tt1967620,The Fear Index,4,15.046594525509745,-4.8283753,11.989822,1,"medical, artem, surgeon, doctor, siri"
+tt11343686,Swimming with Sharks,9,20.874620565156704,-4.04309,9.63295,3,"school, students, elite, university, student"
+tt15576994,Holy Family,-1,24.24033649451935,-5.7691813,10.640042,-1,
+tt15407098,Sister Boniface Mysteries,0,24.95650611746745,-6.3835874,13.338797,1,"detective, murder, case, police, cases"
+tt23032868,Shadow Detective,0,25.402662914593595,-6.169328,13.335997,1,"detective, murder, case, police, cases"
+tt16450274,Treason,7,21.074026878927203,-3.2896168,13.354385,6,"spy, 1995, ador, citadel, tensions"
+tt15548144,The Suspect,4,25.02811220702814,-5.26969,11.41764,1,"medical, artem, surgeon, doctor, siri"
+tt15019128,Hold Tight,-1,18.595906380542065,-6.6616693,12.663815,-1,
+tt15176890,The Lake,14,23.589240512264677,-4.6507387,8.501403,0,"friends, navigate, friendship, stan, school"
+tt26672563,Duty After School,1,18.21756888836373,-0.42922395,10.563919,4,"earth, world, alien, love, human"
+tt13068346,Great Expectations,-1,19.75406166043081,-5.8926086,10.139429,-1,
+tt18258908,NCIS: Sydney,-1,16.165478806518426,-4.6836886,13.938835,-1,
+tt19267756,Pantanal,2,24.181329557075088,-6.637979,9.343721,5,"love, father, family, daughter, relationship"
+tt18552362,Parish,11,23.252467373641856,-5.62832,11.452304,1,"secrets, mother, family, lucia, deadly"
+tt13317454,Yakamoz S-245,1,24.497129421599137,-0.46257526,10.781322,4,"earth, world, alien, love, human"
+tt9845070,Last Light,1,14.596820935924876,-0.63447785,10.794734,4,"earth, world, alien, love, human"
+tt18268134,Rebel Cheer Squad: A Get Even Series,4,22.95013755439341,-6.175952,11.166407,1,"medical, artem, surgeon, doctor, siri"
+tt22399058,Shards of Her,-1,24.68454516155555,-5.9216223,11.761255,-1,
+tt20192096,Welcome to Wedding Hell,3,16.14236809563789,-4.9520397,9.751605,0,"marriage, love, husband, meets, affair"
+tt20854190,Doctor Lawyer,4,17.116230639360737,-5.009642,11.555748,1,"medical, artem, surgeon, doctor, siri"
+tt19896998,Las Bravas F.C.,10,25.339858976531985,-4.1536517,9.079069,1,"drug, difficult, kovalev, soccer, gang"
+tt8323628,My Life with the Walter Boys,-1,25.01547100664282,-5.7304716,10.238393,-1,
+tt13745850,The Last Thing He Told Me,-1,23.146030132923237,-6.6165295,11.958431,-1,
+tt14531774,Culprits,-1,25.4426313749046,-5.5325537,12.3237505,-1,
+tt22189294,Love in Contract,5,16.996476025721684,-3.3376076,8.915336,0,"eun, friend, self, li, soo"
+tt14263564,Justified: City Primeval,-1,25.46493219355377,-5.113821,12.835911,-1,
+tt18076310,The Rookie: Feds,-1,14.15520034155202,-4.942266,13.709931,-1,
+tt7949212,Accused,-1,22.12907175122868,-5.6297812,13.330212,-1,
+tt18699118,Alert: Missing Persons Unit,-1,14.601458437356529,-6.685676,12.8635,-1,
+tt16098700,Fire Country,-1,23.883311897452376,-4.8567915,12.765177,-1,
+tt18413548,Of Money and Blood,-1,22.04609119837824,-4.516442,12.1548395,-1,
+tt29225198,Strong Girl Nam-soon,6,18.621297198749687,-1.7852055,9.893908,4,"vampire, vampires, young, half, min"
+tt15426714,Wilderness,3,21.539395685736693,-4.801716,10.413997,0,"marriage, love, husband, meets, affair"
+tt19503218,Glamorous,5,25.000772270601384,-4.2047167,8.778127,0,"eun, friend, self, li, soo"
+tt11231226,Reasonable Doubt,13,25.477532148326556,-5.22793,12.33682,1,"convicted, madeline, case, murder, prison"
+tt15422758,The Watchful Eye,11,20.36759601408535,-6.260655,11.580239,1,"secrets, mother, family, lucia, deadly"
+tt19866510,The Lions of Sicily,-1,20.54256881267497,-4.4677424,12.247723,-1,
+tt17641200,High Heat,7,23.21348604144273,-3.7212903,13.15674,6,"spy, 1995, ador, citadel, tensions"
+tt21433150,The Veil,0,24.842650949463103,-5.5571084,13.058406,1,"detective, murder, case, police, cases"
+tt16442864,"El Rey, Vicente Fernández",8,22.284155903690134,-7.385365,9.679539,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt17037878,Arcadia,1,24.89783998397971,-0.6268516,10.315602,4,"earth, world, alien, love, human"
+tt15428778,Mayfair Witches,6,20.358107418762003,-1.6220914,10.241953,4,"vampire, vampires, young, half, min"
+tt16481820,Diary of a Gigolo,3,19.083561500710896,-4.8842506,10.181754,0,"marriage, love, husband, meets, affair"
+tt14203572,Monsieur Spade,0,23.149866320228387,-5.9155426,13.61593,1,"detective, murder, case, police, cases"
+tt25403636,Payback: Money and Power,5,20.44744162193108,-2.8279471,9.254639,0,"eun, friend, self, li, soo"
+tt22001792,From Me to You: Kimi ni Todoke,9,25.505041579799443,-3.9671156,9.776466,3,"school, students, elite, university, student"
+tt15379396,Ronja the Robber's Daughter,7,22.971378503781317,-3.5533707,12.923871,6,"spy, 1995, ador, citadel, tensions"
+tt14852808,The Watcher,4,25.596091918021685,-6.1274896,11.092977,1,"medical, artem, surgeon, doctor, siri"
+tt22297684,Class,9,24.97265552970988,-3.6952777,10.131785,3,"school, students, elite, university, student"
+tt23651372,The Iron Heart,7,18.6503774748464,-3.4768643,13.399598,6,"spy, 1995, ador, citadel, tensions"
+tt22797712,Strange Tales of Tang Dynasty,0,25.371423612289423,-6.2714844,13.293079,1,"detective, murder, case, police, cases"
+tt21105088,Golden Boy,3,21.177502979362835,-5.356646,9.914928,0,"marriage, love, husband, meets, affair"
+tt23931190,Belgravia: The Next Chapter,3,21.100188400941,-4.8386397,10.750164,0,"marriage, love, husband, meets, affair"
+tt15483276,Harlan Coben's Shelter,-1,24.45305339665761,-6.7631574,12.516423,-1,
+tt0808491,The Swarm,1,23.228852769216736,-0.4751615,10.844045,4,"earth, world, alien, love, human"
+tt24224910,The Interest of Love,3,20.10591719354785,-4.694098,9.665474,0,"marriage, love, husband, meets, affair"
+tt21814948,The End of Love,-1,16.793840232265886,-4.711383,9.009342,-1,
+tt22325164,La promesa,2,11.395149291036024,-6.7089763,9.500932,5,"love, father, family, daughter, relationship"
+tt21108774,The Buccaneers,-1,24.96732632295109,-4.5666947,10.846794,-1,
+tt22754212,Citadel: Diana,7,23.979820818093835,-3.352584,13.363595,6,"spy, 1995, ador, citadel, tensions"
+tt25503524,Faltu,-1,7.664207467073562,-4.271609,10.441275,-1,
+tt23061466,"Blood, Sex & Royalty",-1,16.93398774869721,-3.798194,11.134984,-1,
+tt23159124,Mujeres Asesinas,-1,15.76891068273486,-1.9458187,12.009965,-1,
+tt23846868,Rabb Se Hai Dua,-1,7.645568235513502,-5.9225273,10.648534,-1,
+tt25503742,Teri Meri Doriyaann,3,9.568324789642276,-5.4358754,9.56188,0,"marriage, love, husband, meets, affair"
+tt25031242,Against the Ropes,2,20.14910475121588,-6.1346483,8.948262,5,"love, father, family, daughter, relationship"
+tt24059730,Batang Quiapo,7,7.237565642765688,-3.5001209,13.090443,6,"spy, 1995, ador, citadel, tensions"
+tt18273742,Sky High: The Series,7,21.58890931641142,-3.6768875,12.989266,6,"spy, 1995, ador, citadel, tensions"
+tt23747008,Far from Home,9,15.091571600271974,-3.594512,9.921675,3,"school, students, elite, university, student"
+tt20565150,Triptych,4,21.1689068664854,-6.5077543,11.33305,1,"medical, artem, surgeon, doctor, siri"
+tt24364150,Gangs of Oslo,10,23.776818380780725,-4.576365,12.770985,1,"drug, difficult, kovalev, soccer, gang"
+tt26471649,The Killing Vote,0,23.166903784450422,-6.2712636,13.112193,1,"detective, murder, case, police, cases"
+tt19724076,A Girl and an Astronaut,1,18.97220129318874,-0.75614005,10.114087,4,"earth, world, alien, love, human"
+tt19723558,Detective Forst,0,15.998408824266791,-6.122103,13.222447,1,"detective, murder, case, police, cases"
+tt22099034,Shanty Town,10,15.996230824962293,-4.534672,12.412216,1,"drug, difficult, kovalev, soccer, gang"
+tt21206964,In Love All Over Again,3,15.669447153977368,-4.911315,9.548219,0,"marriage, love, husband, meets, affair"
+tt26085372,HeartBeat,6,25.452498244606517,-1.6612846,9.532229,4,"vampire, vampires, young, half, min"
+tt26393379,Volver a caer,3,20.97003247993492,-5.0560136,9.639222,0,"marriage, love, husband, meets, affair"
+tt16163746,Who Were We Running From?,11,22.989222275071445,-6.3272734,11.9850645,1,"secrets, mother, family, lucia, deadly"
+tt27925979,Elas por Elas,2,17.05481665903092,-5.610689,8.619171,5,"love, father, family, daughter, relationship"
+tt22188304,Perdona nuestros pecados,2,8.096894817538052,-6.4314966,9.003662,5,"love, father, family, daughter, relationship"
+tt26676489,The Madness,-1,22.248017845984013,-5.8759103,13.155743,-1,
+tt26767508,The Frog,-1,22.84571478277839,-6.2889996,11.630907,-1,
+tt22188282,El amor invencible,2,13.367617823056088,-6.0349054,8.780368,5,"love, father, family, daughter, relationship"
+tt26862142,The Last Frontier,-1,20.57077252108684,-4.986051,12.685864,-1,
+tt20477492,Muted,0,18.561878604763557,-6.219181,12.85148,1,"detective, murder, case, police, cases"
+tt16277846,No Escape,-1,19.61363114359078,-5.399629,8.617354,-1,
+tt14371926,Apples Never Fall,-1,23.569629017390923,-6.248604,10.954265,-1,
+tt17042618,Montecristo,-1,13.313207840691184,-3.5288856,12.880346,-1,
+tt18831118,Obsession,4,15.517869926055056,-5.237636,11.09123,1,"medical, artem, surgeon, doctor, siri"
+tt26693681,The Impossible Heir,-1,17.220792237502835,-3.5489426,11.432046,-1,
+tt27535062,City of God: The Fight Rages On,10,25.0921423834562,-4.4209766,12.615158,1,"drug, difficult, kovalev, soccer, gang"
+tt27369122,The Couple Next Door,11,17.12968563477219,-5.649866,11.512608,1,"secrets, mother, family, lucia, deadly"
+tt27505298,Desperate Lies,-1,17.33451156571476,-5.5774837,10.583892,-1,
+tt15845610,A Man in Full,-1,23.186866285631943,-5.190687,10.180665,-1,
+tt24133138,Nightsleeper,-1,21.027619776699154,-3.9984071,11.05565,-1,
+tt27787158,1992,-1,20.092784803766424,-6.538965,13.109768,-1,
+tt18926116,Fear the Walking Dead: Dead in the Water,-1,20.948848471219414,-1.3271121,11.723499,-1,
+tt27763561,Hierarchy,9,20.23272124729289,-3.5892591,9.926625,3,"school, students, elite, university, student"
+tt26672404,Butterfly,7,21.776783406571905,-3.2042167,13.429407,6,"spy, 1995, ador, citadel, tensions"
+tt27787160,The Surrogacy,-1,14.32848105639082,-5.281282,10.057299,-1,
+tt27921614,Red Swan,5,22.13291380950234,-2.9192662,9.16519,0,"eun, friend, self, li, soo"
+tt14494938,Fake Profile,3,19.231282556529223,-4.5013385,9.479968,0,"marriage, love, husband, meets, affair"
+tt27843828,Gangs of Galicia,-1,23.132574118382774,-4.915382,12.41943,-1,
+tt27951663,Fatal Seduction,4,21.78215653102508,-5.7560925,11.322662,1,"medical, artem, surgeon, doctor, siri"
+tt28226395,My Magic Closet,6,23.95427881877809,-1.7985464,10.005187,4,"vampire, vampires, young, half, min"
+tt15532306,Cruel Intentions,9,21.61434590627756,-3.7639384,9.924604,3,"school, students, elite, university, student"
+tt13355880,Everybody Loves Diamonds,10,23.127870051060345,-4.651366,12.968968,1,"drug, difficult, kovalev, soccer, gang"
+tt34476674,Hound's Hill,-1,16.89873597446377,-6.2548366,12.00076,-1,
+tt28298539,Breathless,4,18.51769000946318,-4.425683,11.258513,1,"medical, artem, surgeon, doctor, siri"
+tt32321928,"Betty la Fea, the Story Continues",2,15.346872778879684,-5.8377714,8.658669,5,"love, father, family, daughter, relationship"
+tt28288478,The Cage,7,22.14887154534348,-3.0301342,13.1124,6,"spy, 1995, ador, citadel, tensions"
+tt27787857,Thursday's Widows,11,19.21396509683276,-6.0338,11.534998,1,"secrets, mother, family, lucia, deadly"
+tt36056620,S Line,6,19.353017766596334,-1.7016923,9.909838,4,"vampire, vampires, young, half, min"
+tt27613238,Minas de Pasión,2,8.244682141235227,-6.3399787,9.050997,5,"love, father, family, daughter, relationship"
+tt28228082,The Stolen Girl,11,20.83714093989968,-6.5275917,11.393011,1,"secrets, mother, family, lucia, deadly"
+tt26456880,One Trillion Dollars,-1,14.003643237180096,-5.10377,10.149923,-1,
+tt29195231,Pact of Silence,-1,21.869309950433376,-6.2040715,11.414987,-1,
+tt29103836,Beyond Goodbye,3,23.59223090659132,-4.9420767,10.173467,0,"marriage, love, husband, meets, affair"
+tt28019928,Suburræterna,-1,16.441801108815852,-4.2655835,12.337633,-1,
+tt15441086,Brigands: The Quest for Gold,-1,24.319809162531776,-5.062149,11.238526,-1,
+tt27591984,I Woke Up a Vampire,6,20.93310152015041,-1.5067447,9.745274,4,"vampire, vampires, young, half, min"
+tt29386497,Bank Under Siege,7,25.63770794384744,-3.6526294,13.482096,6,"spy, 1995, ador, citadel, tensions"
+tt29303395,The Billis,14,25.243656685801756,-5.1411133,8.711808,0,"friends, navigate, friendship, stan, school"
+tt29894090,Crazy About You,2,6.0699485259670825,-6.052122,8.626953,5,"love, father, family, daughter, relationship"
+tt31433814,Doctor Who,1,24.649673056359468,-0.56307113,10.223949,4,"earth, world, alien, love, human"
+tt30221531,King & Conqueror,-1,16.784245415533267,-3.0672705,12.384194,-1,
+tt27997713,Baby Bandito,10,10.156960938838823,-4.4824877,12.9030695,1,"drug, difficult, kovalev, soccer, gang"
+tt28088031,Ransom Canyon,-1,25.158579760843708,-6.756834,10.618737,-1,
+tt13332622,Before,4,20.895840249679345,-5.839417,11.634599,1,"medical, artem, surgeon, doctor, siri"
+tt30494784,The Gardener,13,22.552801434733997,-5.6531415,12.726084,1,"convicted, madeline, case, murder, prison"
+tt22475008,Watson,4,17.58419833928669,-5.390933,11.520475,1,"medical, artem, surgeon, doctor, siri"
+tt23806252,Iron Reign,10,20.503199132815595,-4.424483,12.493459,1,"drug, difficult, kovalev, soccer, gang"
+tt30317229,La Palma,-1,21.339973558064813,-2.0272,10.951886,-1,
+tt33297589,Valle salvaje,2,14.26068891282214,-6.5281043,9.344467,5,"love, father, family, daughter, relationship"
+tt15977292,Happy Face,13,21.52688347502364,-5.5760174,12.786041,1,"convicted, madeline, case, murder, prison"
+tt28703559,Territory,-1,24.74793377686689,-6.6917973,10.709836,-1,
+tt31019484,Missing You,-1,20.780196853352244,-6.4165363,12.554062,-1,
+tt31038430,The Hunting Wives,-1,25.13951078398507,-6.134548,11.318189,-1,
+tt29764088,El amor no tiene receta,2,8.33127316381058,-6.251164,9.100013,5,"love, father, family, daughter, relationship"
+tt31123366,LaLola,5,20.34769061257189,-4.2454724,8.567785,0,"eun, friend, self, li, soo"
+tt31173096,Billionaires' Bunker,1,22.62578096776124,-0.72407496,10.715586,4,"earth, world, alien, love, human"
+tt31186958,Prime Target,7,21.875160696351543,-3.083543,13.19706,6,"spy, 1995, ador, citadel, tensions"
+tt31260386,Beauty in Black,3,21.51595048964553,-4.730291,9.968815,0,"marriage, love, husband, meets, affair"
+tt20601772,El Conde: Amor y Honor,-1,22.1990198522749,-4.2733197,12.687982,-1,
+tt31407116,PULSE,4,20.925777526066614,-4.499769,11.172371,1,"medical, artem, surgeon, doctor, siri"
+tt27031263,Teacup,-1,24.03468112577598,-1.5802424,10.948407,-1,
+tt31458276,Grotesquerie,-1,21.61117259064933,-5.9394374,13.132243,-1,
+tt21906554,The Hunting Party,13,25.552952110459024,-5.116215,13.379597,1,"convicted, madeline, case, murder, prison"
+tt28131856,Everyone Loves Me,5,22.489963417137467,-3.8289652,8.670648,0,"eun, friend, self, li, soo"
+tt31806048,Hostage,12,22.20020033564967,-3.4142349,11.937761,2,"british, war, russian, king, agent"
+tt32306399,From Tomorrow,-1,24.81000735650761,-5.8786497,11.773535,-1,
+tt31849826,Doctor Odyssey,4,20.912937011828085,-4.486966,11.122312,1,"medical, artem, surgeon, doctor, siri"
+tt29494109,Caught,13,23.424223265455808,-5.622511,12.6905575,1,"convicted, madeline, case, murder, prison"
+tt31158587,Master of the House,-1,19.093337931353865,-5.8454585,11.020068,-1,
+tt33509073,A Virtuous Business,5,24.00191944268217,-4.116014,9.370159,0,"eun, friend, self, li, soo"
+tt32536952,Like a Dragon: Yakuza,7,14.548160992580303,-3.884337,13.152166,6,"spy, 1995, ador, citadel, tensions"
+tt27427326,Wayward,-1,23.36440549613924,-6.223378,12.538948,-1,
+tt32740307,Chastity High,9,19.356105049627217,-3.667685,9.895973,3,"school, students, elite, university, student"
+tt32889672,Romance in the House,-1,18.381728437088935,-5.6635094,10.340898,-1,
+tt32874331,In the Mud,13,18.163927760355296,-4.9279838,12.785531,1,"convicted, madeline, case, murder, prison"
+tt30291387,All's Fair,-1,11.789026182097274,-5.073459,9.281097,-1,
+tt30068042,The Accident,-1,16.940272141172247,-5.716683,10.5193205,-1,
+tt29485142,Suits LA,13,21.13033381543092,-5.0919995,12.215368,1,"convicted, madeline, case, murder, prison"
+tt33246591,The Assassin,11,16.656336524870266,-6.141375,12.384116,1,"secrets, mother, family, lucia, deadly"
+tt27031470,Deceitful Love,3,22.043381065971364,-5.189567,9.849174,0,"marriage, love, husband, meets, affair"
+tt28329925,Every Minute Counts,8,20.30471775121986,-7.3392262,9.759738,7,"telenovela, mexican, la, televisa, mexican telenovela"
+tt33398245,Buried Hearts,5,22.482921740459712,-2.7525942,9.426046,0,"eun, friend, self, li, soo"
+tt33484460,Robin Hood,-1,24.21627579693829,-2.9883087,12.443364,-1,
+tt32300326,Sed de Venganza,2,9.10340947482478,-6.566225,9.192686,5,"love, father, family, daughter, relationship"
+tt31226362,Sisters' Feud,-1,15.320320156888483,-5.502804,10.718092,-1,
+tt34381307,Until You Burn,-1,19.799300231220485,-5.424321,12.063561,-1,
+tt32872848,Las Hijas de la Señora García,2,10.10763791160135,-6.2337604,9.174663,5,"love, father, family, daughter, relationship"
+tt29632046,Subteran,11,23.702056071697925,-5.8976736,12.475245,1,"secrets, mother, family, lucia, deadly"
+tt30096238,Public Disorder,7,24.63584532376836,-3.8179853,13.268143,6,"spy, 1995, ador, citadel, tensions"
+tt35048672,Seven Doors,-1,9.812711822179129,-2.0090148,11.002909,-1,
+tt11897206,"Cóyotl, Hero and Beast",6,21.208722801952163,-1.4422824,10.714757,4,"vampire, vampires, young, half, min"
+tt35256070,The Hooligan,10,24.931585200818123,-4.6198225,12.290563,1,"drug, difficult, kovalev, soccer, gang"
+tt32146392,Two Graves,-1,23.551957199966985,-6.648104,12.168954,-1,
+tt30876484,Just One Look,11,15.294148000208702,-6.4569664,12.1434355,1,"secrets, mother, family, lucia, deadly"
+tt35836959,Medusa,-1,12.565208585396542,-6.5968847,10.131469,-1,
+tt37504309,Unspeakable Sins,3,18.189647947357283,-5.0028644,10.374094,0,"marriage, love, husband, meets, affair"
+tt28243363,Sara - Woman in the Shadows,0,22.33568220859369,-6.3517184,13.105411,1,"detective, murder, case, police, cases"
+tt37065878,The Guest,-1,9.410838081763664,-5.6692877,10.666995,-1,
