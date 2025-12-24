@@ -496,14 +496,14 @@ def render_representative_works(data, content_type, content_type_label="드라�
                 BASE_DIR,
                 "data",
                 "embeddings",
-                "drama_text_embedding_qwen3.parquet"
+                "drama_text_embedding_poster.parquet"
             )
         else:
             import_path = os.path.join(
                 BASE_DIR,
                 "data",
                 "embeddings",
-                "movie_text_embedding_qwen3.parquet"
+                "movie_text_embedding_poster.parquet"
             )
 
         df_original = pd.read_parquet(
