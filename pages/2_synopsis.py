@@ -20,6 +20,13 @@ from utils.loader import load_tfidf_keywords
 from utils.wordcloud_utils import generate_wordcloud_image
 from utils.topic_mappings import get_cluster_name, get_topic_name
 
+# ✅ 폰트 경로를 상대 경로로 변경 (배포 환경 호환)
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))  # pages/ → streamlit_app/
+FONT_PATH = os.path.join(BASE_DIR, "assets", "fonts", "MaruBuri-Bold.ttf")
+
+# 폰트 파일이 없으면 None 사용 (기본 폰트)
+if not os.path.exists(FONT_PATH):
+    FONT_PATH = None
 
 # =============================================================================
 # 페이지 헤더
@@ -305,7 +312,7 @@ def create_keyword_comparison_chart(df_comparison, top_n=20):
 
 
 def create_distribution_chart(df_map, view_mode, category, content_type, content_type_label="드라마"):
-    """클러스터/토픽별 분포 차트"""
+    """클러스터/토픽별 분포 차트 - Noise 제거, 색상 변경, y축 조정"""
     if view_mode == 'cluster':
         group_col = 'cluster'
         label = '클러스터'
@@ -321,18 +328,22 @@ def create_distribution_chart(df_map, view_mode, category, content_type, content
             lambda x: get_topic_name(content_type, category, x) if x != -1 else "Noise"
         )
     
-    summary = df_map.groupby('display_name').size().reset_index(name='count')
+    # ✅ 1. Noise 제거
+    summary = df_map[df_map['display_name'] != 'Noise'].groupby('display_name').size().reset_index(name='count')
     
     category_label = "흥행작" if category == 'hit' else "비흥행작"
     
+    # ✅ 2. 색상: 연녹색(낮은 값) → 연주황(높은 값)
     fig = px.bar(
         summary, x='display_name', y='count',
         title=f"{category_label} {content_type_label} {label}별 분포",
         labels={'display_name': label, 'count': f'{content_type_label} 수'},
-        color='count', color_continuous_scale='Viridis',
+        color='count',
+        color_continuous_scale=[[0, '#c8e6c9'], [0.5, '#ffeb3b'], [1, '#ffcc80']],  # 연녹 → 연노랑 → 연주황
         text='count'
     )
     
+    # ✅ 3. y축 설정
     if content_type == "drama":
         yaxis_config = dict(
             title_font=dict(color='black'),
@@ -344,7 +355,7 @@ def create_distribution_chart(df_map, view_mode, category, content_type, content
         yaxis_config = dict(
             title_font=dict(color='black'),
             tickfont=dict(color='black'),
-            range=[0, 2000],
+            range=[0, 1600],  # 변경: 2000 → 1600
             dtick=400
         )
 
@@ -362,6 +373,7 @@ def create_distribution_chart(df_map, view_mode, category, content_type, content
     )
     fig.update_traces(textfont=dict(color='black'), textposition='outside')
     return fig
+
 
 
 # ========== 새로운 함수: 대표 작품 렌더링 ==========
@@ -743,29 +755,28 @@ def render_bertopic_section(data, content_type, content_type_label="드라마", 
     st.plotly_chart(fig_map, use_container_width=True)
     
     st.markdown("---")
+
+    # ✅ 3. 키워드 비교 (순서 변경: 분포 다음으로)
+    if 'keyword_comparison' in data and data['keyword_comparison'] is not None:
+        st.markdown("#### 🔍 흥행작 vs 비흥행작 키워드 비교")
+        st.markdown('''
+        **해석 가이드:**
+        - **흥행작 고유 키워드**: 흥행작에서만 자주 등장하는 키워드
+        - **비흥행작 고유 키워드**: 비흥행작에서만 자주 등장하는 키워드
+        ''')
+        top_n = st.slider("표시할 키워드 수", 10, 50, 20, 5, key=f'{key_prefix}_topn')
+        fig_kw = create_keyword_comparison_chart(data['keyword_comparison'], top_n)
+        st.plotly_chart(fig_kw, use_container_width=True)
     
-    # 분포
+    # ✅ 2. 분포 (순서 변경: 키워드 비교보다 먼저)
     st.markdown(f"#### 📈 {group_label}별 분포")
     fig_dist = create_distribution_chart(df_map, view_mode, category, content_type, content_type_label)
     st.plotly_chart(fig_dist, use_container_width=True)
     
     st.markdown("---")
     
-    # 키워드 비교
-    if 'keyword_comparison' in data and data['keyword_comparison'] is not None:
-        st.markdown("#### 🔍 흥행작 vs 비흥행작 키워드 비교")
-        st.markdown("""
-        **해석 가이드:**
-        - **흥행작 고유 키워드**: 흥행작에서만 자주 등장하는 키워드
-        - **비흥행작 고유 키워드**: 비흥행작에서만 자주 등장하는 키워드
-        """)
-        top_n = st.slider("표시할 키워드 수", 10, 50, 20, 5, key=f'{key_prefix}_topn')
-        fig_kw = create_keyword_comparison_chart(data['keyword_comparison'], top_n)
-        st.plotly_chart(fig_kw, use_container_width=True)
-        
-        
-        
-        # ✅ "📋 토픽 상세 정보" 섹션 제거됨
+    
+    
 
 
 # =============================================================================
@@ -858,7 +869,6 @@ with main_tab1:
         with col1:
             st.markdown("### 🟢 흥행작 키워드")
             df_hit = load_tfidf_keywords("movie", "hit")
-            FONT_PATH = r"C:\Users\lizzy\OneDrive\바탕 화면\최종플젝\최종데이터셋\스트림릿\assets\fonts\MaruBuri-Bold.ttf"
             img = generate_wordcloud_image(df_hit, color_palette=["#fc8d59", "#f781bf", "#ff4c42"], font_path=FONT_PATH)
             st.image(img)
         with col2:
@@ -902,7 +912,6 @@ with main_tab2:
         with col1:
             st.markdown("### 🟢 흥행작 키워드")
             df_hit = load_tfidf_keywords("drama", "hit")
-            FONT_PATH = r"C:\Users\lizzy\OneDrive\바탕 화면\최종플젝\최종데이터셋\스트림릿\assets\fonts\MaruBuri-Bold.ttf"
             img = generate_wordcloud_image(df_hit, color_palette=["#d73027", "#fc8d59", "#f781bf"], font_path=FONT_PATH)
             st.image(img)
         with col2:
