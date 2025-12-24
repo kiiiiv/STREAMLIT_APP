@@ -492,25 +492,39 @@ def render_representative_works(data, content_type, content_type_label="드라�
     # 필요한 포스터만 로드 (성능 최적화)
     try:
         if content_type == "drama":
-            import_path = r"C:\Users\lizzy\OneDrive\바탕 화면\최종플젝\최종데이터셋\최종데이터셋_드라마\drama_text_embedding_qwen3.parquet"
+            import_path = os.path.join(
+                BASE_DIR,
+                "data",
+                "embeddings",
+                "drama_text_embedding_qwen3.parquet"
+            )
         else:
-            import_path = r"C:\Users\lizzy\OneDrive\바탕 화면\최종플젝\최종데이터셋\최종데이터셋_영화\movie_text_embedding_qwen3.parquet"
-        
-        df_original = pd.read_parquet(import_path, columns=['imdb_id', 'title', 'poster_path'])  # 필요한 컬럼만
-        
+            import_path = os.path.join(
+                BASE_DIR,
+                "data",
+                "embeddings",
+                "movie_text_embedding_qwen3.parquet"
+            )
+
+        df_original = pd.read_parquet(
+            import_path,
+            columns=["imdb_id", "title", "poster_path"]
+        )
+
         # 필요한 제목만 매핑
         for title in needed_titles:
-            title_row = df_map[df_map['title'] == title]
+            title_row = df_map[df_map["title"] == title]
             if len(title_row) > 0:
-                imdb_id = title_row.iloc[0]['imdb_id']
-                poster_row = df_original[df_original['imdb_id'] == imdb_id]
-                if len(poster_row) > 0 and 'poster_path' in poster_row.columns:
-                    poster_path = poster_row.iloc[0]['poster_path']
+                imdb_id = title_row.iloc[0]["imdb_id"]
+                poster_row = df_original[df_original["imdb_id"] == imdb_id]
+                if len(poster_row) > 0:
+                    poster_path = poster_row.iloc[0]["poster_path"]
                     if pd.notna(poster_path) and poster_path:
-                        # w300: 작은 크기로 빠른 로딩
                         title_to_poster[title] = f"https://image.tmdb.org/t/p/w300{poster_path}"
-    except Exception as e:
-        st.warning(f"⚠️ 포스터 로딩 중 일부 오류 발생")
+
+    except Exception:
+        st.info("📌 배포 환경에서는 포스터 이미지를 제공하지 않습니다.")
+
     
     # ========== 콘텐츠 렌더링 ==========
     
